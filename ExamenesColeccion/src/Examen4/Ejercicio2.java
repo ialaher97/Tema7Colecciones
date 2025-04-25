@@ -42,7 +42,7 @@ public class Ejercicio2 {
 		
 			while(it3.hasNext()) {
 				Album a1 = (Album) it3.next();
-				if(a1.getAnioPublicacion() == nuevoMapa.g);
+				if(a1.getAnioPublicacion() == nuevoMapa.get(keys));
 			}
 			}
 			
